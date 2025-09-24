@@ -1,0 +1,5 @@
+{
+  "name": "AI Background Remover",
+  "description": "An application that uses AI to seamlessly remove the background from any image with pristine quality. Upload an image, and the AI will automatically detect and remove the background, providing a transparent PNG ready for download.",
+  "requestFramePermissions": []
+}
